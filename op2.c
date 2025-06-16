@@ -11,6 +11,8 @@ Da li su svi brojevi jednaki, dva jednaka, ili su svi različiti.
 Na kraju, proverava da li je bar jedan broj paran i veći od 100 (koristeći logičke i aritmetičke operatore).
 
 */
+
+#include <stdio.h>
 int main() {
     int a, b, c;
     int max, min;;
