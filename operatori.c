@@ -1,3 +1,5 @@
+/* Napiši program u C jeziku koji od korisnika traži da unese dva cela broja i znak matematičke operacije (+, -, *, /, %),
+a zatim ispisuje rezultat operacije. Program treba da koristi aritmetičke i logičke operatore. */
 #include <stdio.h>
 
 int main() {
